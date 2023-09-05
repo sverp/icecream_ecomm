@@ -1,0 +1,26 @@
+[
+    {
+        "title" : "vanilla",
+        "img" : "src/images/vanilla.jpg"
+    },
+     {
+        "title" : "strawberry",
+        "img" : "src/images/strwaberry.jpg"
+    },
+    {
+        "title" : "pistachio",
+        "img" : "src/images/pistachio.jpg"
+    },
+    {
+        "title" : "lemon",
+        "img" : "src/images/lemon.jpg"
+    },
+    {
+        "title" : "bluemoon",
+        "img" : "src/images/bluemoon.jpg"
+    },
+    {
+        "title" : "blackcurrent",
+        "img" : "src/images/blackcurrent.jpg"
+    }
+]
