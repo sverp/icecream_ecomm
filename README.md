@@ -1,2 +1,2 @@
-# icecream_ecomm
-Ecommerce website for an icecream shop.
+1) Customized pricing depending upon what flavour,base and no.of scoops you choose.
+2) Has a cart.
